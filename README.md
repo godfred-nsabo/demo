@@ -27,3 +27,6 @@ touch .husky/commit-msg && chmod a+x .husky/commit-msg
 ```
 git add . && git commit -m "feat: <subject> <message>
 ```
+```
+yarn release
+```
