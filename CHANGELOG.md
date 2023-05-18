@@ -1,5 +1,7 @@
 
 
+## [1.1.1](https://github.com/godfred-nsabo/demo/compare/1.1.0...1.1.1) (2023-05-18)
+
 ## [1.1.0](https://github.com/godfred-nsabo/demo/compare/1.0.1...1.1.0) (2023-05-15)
 
 
